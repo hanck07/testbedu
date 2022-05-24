@@ -1,0 +1,10 @@
+git branch -> nos muestra la rama principal del git
+git flow -> nos ayuda a dar un flujo de trabajo a lo que trabajaremos
+
+git branch + nombre de la rama a crear -> Crea una nueva rama que servirá para trabajar fuera del main
+git checkout + nombre de la rama - cambia la rama que se esta utilizando para trabajar
+
+touch + nombre de archivo -> Crea un archivo definido
+git add . -> Agregar todos los cambios al repositorio
+
+git merge + la rama que quieres unir -> Realiza la unión de dos ramas en con el main
